@@ -1,6 +1,5 @@
 package com.example.androiddevchallenge.di
 
-import androidx.annotation.RestrictTo
 import com.example.androiddevchallenge.WeatherApi
 import dagger.Module
 import dagger.Provides
