@@ -1,6 +1,5 @@
 package com.example.androiddevchallenge
 
-import com.example.androiddevchallenge.model.WeatherInfo
 import com.google.common.truth.Truth.assertThat
 import io.mockk.coEvery
 import io.mockk.mockk
